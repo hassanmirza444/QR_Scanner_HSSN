@@ -1,0 +1,2 @@
+include ':QR_Scanner_Generator_HSSN'
+rootProject.name='QR_Scanner_HSSN'
